@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "5b1535ca-53fe-407b-afa9-5ead301b7311": {
+      "label": "Out of the Cage - Michael McClure and the Digital Lyric Archive",
+      "is_offline": false,
+      "file_url": "https://ia800308.us.archive.org/17/items/naropa_allen_ginsberg_and_michael/naropa_allen_ginsberg_and_michael_6uyfgiwequygwefq4kb.mp3",
+      "duration": 1342
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Out of the Cage - Michael McClure and the Digital Lyric Archive",
+  "created_at": "2024-10-01T20:02:42.092Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-01T20:02:42.092Z",
+  "updated_by": "SteveMarvin"
+}
