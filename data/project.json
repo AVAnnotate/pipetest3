@@ -1,1 +1,68 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","title":"pipetest3-develop","description":"pipetest3","language":"en","slug":"pipetest3","creator":"SteveMarvin","authors":"Stephen Marvin","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"},{"category":"Day of the week","color":"#ADFEFF"},{"category":"Bob, Film Direction, Speaker","color":"#99E6FF"},{"category":"Transcription, Topic","color":"#88C9F2"}],"tags":[{"tag":"Tanya | Ben | Sara","category":"Speaker"},{"tag":"Tuesday | Thursday | Wednesday","category":"Day of the week"},{"category":"Bob, Film Direction, Speaker","tag":"Tanya"},{"category":"Transcription, Topic","tag":"Tanya"},{"category":"Speaker","tag":"Tanya"},{"category":"Speaker","tag":"Ben"},{"category":"Speaker","tag":"Sam"}]},"created_at":"2024-10-01T15:20:55.557Z","updated_at":"2024-10-01T18:45:32.370Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "title": "pipetest3-develop",
+    "description": "pipetest3",
+    "language": "en",
+    "slug": "pipetest3",
+    "creator": "SteveMarvin",
+    "authors": "Stephen Marvin",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Day of the week",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Bob, Film Direction, Speaker",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Transcription, Topic",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tuesday | Thursday | Wednesday",
+          "category": "Day of the week"
+        },
+        {
+          "category": "Bob, Film Direction, Speaker",
+          "tag": "Tanya"
+        },
+        {
+          "category": "Transcription, Topic",
+          "tag": "Tanya"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Tanya"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ben"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sam"
+        }
+      ]
+    },
+    "created_at": "2024-10-01T15:20:55.557Z",
+    "updated_at": "2024-10-01T18:45:37.070Z"
+  }
+}
