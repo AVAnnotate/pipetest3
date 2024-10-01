@@ -7,7 +7,7 @@
   "users": [],
   "project": {
     "github_org": "AVAnnotate",
-    "title": "pipetest3",
+    "title": "pipetest3-develop",
     "description": "pipetest3",
     "language": "en",
     "slug": "pipetest3",
@@ -21,6 +21,6 @@
       "tags": []
     },
     "created_at": "2024-10-01T15:20:55.557Z",
-    "updated_at": "2024-10-01T15:20:55.557Z"
+    "updated_at": "2024-10-01T15:31:13.028Z"
   }
 }
