@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 60,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "asdffassdfasdfas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Tanya"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ben"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sam"
+        },
+        {
+          "category": "Day of the week",
+          "tag": "Tuesday"
+        },
+        {
+          "category": "Day of the week",
+          "tag": "Wednesday"
+        },
+        {
+          "category": "Day of the week",
+          "tag": "Thursday"
+        }
+      ],
+      "uuid": "789b6c92-a1b8-4068-be90-0e126309cc49"
+    }
+  ],
   "set": "Default",
   "event_id": "814b5c60-df04-4131-a16e-d1e469ed6669",
   "source_id": "ffbef7f9-267f-423f-85d0-70602229c22c"
