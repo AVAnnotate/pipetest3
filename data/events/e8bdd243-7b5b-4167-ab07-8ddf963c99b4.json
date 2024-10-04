@@ -1,0 +1,56 @@
+{
+  "audiovisual_files": {
+    "c9b02db4-7721-482c-b199-7afd45579d08": {
+      "label": "video",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/cccomd-Tidbits_Black_History_Month_-_Zora_Neal_Hurston/Tidbits_Black_History_Month_-_Zora_Neal_Hurston.mp4",
+      "duration": 81
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "I'm a really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really long citation!",
+  "item_type": "Video",
+  "label": "more testing",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lorem",
+          "bold": true
+        },
+        {
+          "text": " ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+        },
+        {
+          "text": "ullamco"
+        },
+        {
+          "text": " laboris nisi ut aliquip ex ea commodo consequat. "
+        },
+        {
+          "text": "Duis"
+        },
+        {
+          "text": " aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint "
+        },
+        {
+          "text": "occaecat"
+        },
+        {
+          "text": " cupidatat non "
+        },
+        {
+          "text": "proident"
+        },
+        {
+          "text": ", sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-04T01:13:35.292Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-04T01:13:35.292Z",
+  "updated_by": "SteveMarvin"
+}

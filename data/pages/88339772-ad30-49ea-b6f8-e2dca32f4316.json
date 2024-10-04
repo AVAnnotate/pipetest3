@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-10-04T01:13:36.429Z",
+  "created_by": "SteveMarvin",
+  "title": "video event with one set",
+  "updated_at": "2024-10-04T01:13:36.429Z",
+  "updated_by": "SteveMarvin",
+  "parent": "12a3abbb-836e-4078-8359-f4fa9c47b3be",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f8504bdb-c2b6-4a03-9264-4329b5dfb2ed"
+  }
+}

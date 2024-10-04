@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "5760b795-3958-4801-b261-bc4564f9957a": {
+      "label": "world series 2 (actually it's the same video)",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/vhs-tape-1987.10.18-ksfy-1987-world-series-minnesota-twins-vs.-st.-louis-cardina/VHS%20Tape%20-%201987.10.18%20-%20KSFY%20-%201987%20World%20Series%20-%20Minnesota%20Twins%20vs.%20St.%20Louis%20Cardinals%20-%20Game%202%20-%20October%2018th%2C%201987.mp4",
+      "duration": 21501
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "the internet",
+  "item_type": "Video",
+  "label": "video event with one set",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "i'm a video event with only one set but I also have multiple AV files"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-04T01:13:35.292Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-04T01:13:35.292Z",
+  "updated_by": "SteveMarvin"
+}
