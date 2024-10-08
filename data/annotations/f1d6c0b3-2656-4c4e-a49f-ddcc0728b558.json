@@ -13,32 +13,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "Speaker",
-          "tag": "Tanya"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Ben"
-        },
-        {
-          "category": "Speaker",
-          "tag": "Sam"
-        },
-        {
-          "category": "Day of the week",
-          "tag": "Tuesday"
-        },
-        {
-          "category": "Day of the week",
-          "tag": "Wednesday"
-        },
-        {
-          "category": "Day of the week",
-          "tag": "Thursday"
-        }
-      ],
+      "tags": [],
       "uuid": "789b6c92-a1b8-4068-be90-0e126309cc49"
     }
   ],
