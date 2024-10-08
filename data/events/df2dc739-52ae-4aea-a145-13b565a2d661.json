@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "112a4ff9-d255-4535-811a-3fd2db0a461c": {
+      "label": "Tape 1",
+      "is_offline": false,
+      "file_url": "url1",
+      "duration": 1
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Interview 1",
+  "created_at": "2024-10-08T17:38:32.576Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-08T17:38:32.576Z",
+  "updated_by": "SteveMarvin"
+}
