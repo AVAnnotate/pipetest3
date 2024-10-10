@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdfasdf"
+        }
+      ]
+    }
+  ],
+  "title": "sdfasdf",
+  "parent": "12a3abbb-836e-4078-8359-f4fa9c47b3be",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "sdfasdf",
+  "created_at": "2024-10-10T14:40:41.598Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-10T14:40:41.598Z",
+  "updated_by": "SteveMarvin"
+}
