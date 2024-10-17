@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-10-15T15:02:05.109Z",
-  "created_by": "SteveMarvin",
-  "title": "Video of Driscoll",
-  "slug": "video-of-driscoll",
-  "updated_at": "2024-10-15T15:02:05.109Z",
-  "updated_by": "SteveMarvin",
-  "parent": "12a3abbb-836e-4078-8359-f4fa9c47b3be",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "fe1e75ab-d30b-4f95-929e-4b986f38f2ce"
-  }
-}
+{"content":[],"created_at":"2024-10-15T15:02:05.109Z","created_by":"SteveMarvin","title":"Video of Driscoll","slug":"video-of-driscoll","updated_at":"2024-10-15T15:02:05.109Z","updated_by":"SteveMarvin","parent":"12a3abbb-836e-4078-8359-f4fa9c47b3be","autogenerate":{"enabled":true,"type":"event","type_id":"fe1e75ab-d30b-4f95-929e-4b986f38f2ce"}}
